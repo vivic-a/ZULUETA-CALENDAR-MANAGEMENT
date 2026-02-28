@@ -22,6 +22,7 @@ class Program
 
         while (running)
         {
+            Console.WriteLine("-----------------------------------");
             Console.WriteLine("\n=== Simple Student Calendar ===");
             Console.WriteLine("1. Add Event");
             Console.WriteLine("2. View Events");
